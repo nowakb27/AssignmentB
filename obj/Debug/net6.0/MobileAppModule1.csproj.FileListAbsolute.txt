@@ -1,0 +1,16 @@
+C:\Users\BRANDO\RiderProjects\AssignmentB\bin\Debug\net6.0\MobileAppModule1.exe
+C:\Users\BRANDO\RiderProjects\AssignmentB\bin\Debug\net6.0\MobileAppModule1.deps.json
+C:\Users\BRANDO\RiderProjects\AssignmentB\bin\Debug\net6.0\MobileAppModule1.runtimeconfig.json
+C:\Users\BRANDO\RiderProjects\AssignmentB\bin\Debug\net6.0\MobileAppModule1.dll
+C:\Users\BRANDO\RiderProjects\AssignmentB\bin\Debug\net6.0\MobileAppModule1.pdb
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.csproj.AssemblyReference.cache
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.AssemblyInfoInputs.cache
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.AssemblyInfo.cs
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.csproj.CoreCompileInputs.cache
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.dll
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\refint\MobileAppModule1.dll
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.pdb
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\MobileAppModule1.genruntimeconfig.cache
+C:\Users\BRANDO\RiderProjects\AssignmentB\obj\Debug\net6.0\ref\MobileAppModule1.dll
+C:\Users\BRANDO\RiderProjects\AssignmentB\bin\Debug\net6.0\animals.txt
